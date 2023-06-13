@@ -1,0 +1,8 @@
+.regularButton {
+    background: green;
+    color: white;
+    font-family: arial;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
